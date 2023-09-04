@@ -1,0 +1,31 @@
+{
+  "name": "javascriptexam",
+  "version": "1.0.0",
+  "description": "exam with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mehdi-Malkami/JavaScriptExam.git"
+  },
+  "keywords": [
+    "JS",
+    "and",
+    "TS",
+    "Exam"
+  ],
+  "author": "Mehdi Malkami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mehdi-Malkami/JavaScriptExam/issues"
+  },
+  "homepage": "https://github.com/Mehdi-Malkami/JavaScriptExam#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "flowbite": "^1.8.1"
+  }
+}
